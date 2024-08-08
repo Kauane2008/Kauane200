@@ -12,3 +12,4 @@ Meu nome é Kauane meira de oliveira
 !.[].(![image](https://github.com/user-attachments/assets/bf327537-d2d9-4150-8462-aab304117804)
 )
 ![image](https://github.com/user-attachments/assets/bf327537-d2d9-4150-8462-aab304117804)
+ 
