@@ -11,6 +11,5 @@ Meu nome é Kauane meira de oliveira
 
 !.[].(![image](https://github.com/user-attachments/assets/bf327537-d2d9-4150-8462-aab304117804)
 )
-![image](https://github.com/user-attachments/assets/bf327537-d2d9-4150-8462-aab304117804)
- 
-  ! .[https://f.i.uol.com.br/fotografia/2021/10/06/1633553855615e0dbf7db98_1633553855_1x1_md.jpg}
+![image](https://github.com/user-attachments/assets/bf327537-d2d9-4150-8462-aab304117804) 
+  !.{} .[https://f.i.uol.com.br/fotografia/2021/10/06/1633553855615e0dbf7db98_1633553855_1x1_md.jpg}.
